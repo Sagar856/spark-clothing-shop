@@ -1,0 +1,203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`products has right snapshot with all requirements completed 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="text-center"
+    />
+    <div
+      className="container mx-2"
+    >
+      <div
+        className="row mt-4 mx-2"
+      >
+        <div
+          className="col-md-9"
+        >
+          <a
+            href="#/products"
+            onClick={[Function]}
+          >
+            <button
+              className="btn btn-primary mx-4 category-btn-all"
+              data-testid="allCategoryBtn"
+              onClick={[Function]}
+            >
+              All category
+            </button>
+          </a>
+          <a
+            href="#/products?category=mens"
+            onClick={[Function]}
+          >
+            <button
+              className="btn btn-primary mx-4 category-btn-mens"
+              data-testid="mensCategoryBtn"
+              onClick={[Function]}
+            >
+              Men
+            </button>
+          </a>
+          <a
+            href="#/products?category=womens"
+            onClick={[Function]}
+          >
+            <button
+              className="btn btn-primary mx-4 category-btn-womens"
+              data-testid="womensCategoryBtn"
+              onClick={[Function]}
+            >
+              Women
+            </button>
+          </a>
+          <a
+            href="#/products?category=kids"
+            onClick={[Function]}
+          >
+            <button
+              className="btn btn-primary mx-4 category-btn-kids"
+              data-testid="kidsCategoryBtn"
+              onClick={[Function]}
+            >
+              Kids
+            </button>
+          </a>
+          <button
+            className="navigate-info"
+          >
+            Navigate here 
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+      <div
+        className="row"
+      >
+        <div>
+          <hr />
+          <div
+            className="carousel slide carousel-resizing"
+            data-testid="tabCarouselElement"
+            id="carouselExampleCaptions"
+          >
+            <div
+              className="carousel-inner"
+            >
+              <div
+                className="carousel-item"
+              >
+                <img
+                  alt="KidsWearImg"
+                  className="d-block product-carousel-imgs"
+                  src="/assets/images/carousel/KidsWearImg.png"
+                />
+              </div>
+              <div
+                className="carousel-item"
+              >
+                <img
+                  alt="WomenWearImg"
+                  className="d-block product-carousel-imgs"
+                  src="/assets/images/carousel/WomenWearImg.png"
+                />
+              </div>
+              <div
+                className="carousel-item active"
+              >
+                <img
+                  alt="MensWearImg"
+                  className="d-block product-carousel-imgs"
+                  src="/assets/images/carousel/MensWearImg.png"
+                />
+              </div>
+            </div>
+            <div>
+              <button
+                className="carousel-control-prev"
+                data-bs-slide="prev"
+                data-bs-target="#carouselExampleCaptions"
+                type="button"
+              >
+                <span
+                  aria-hidden="true"
+                  className="carousel-control-prev-icon"
+                />
+                <span
+                  className="visually-hidden"
+                >
+                  Previous
+                </span>
+              </button>
+              <button
+                className="carousel-control-next"
+                data-bs-slide="next"
+                data-bs-target="#carouselExampleCaptions"
+                type="button"
+              >
+                <span
+                  aria-hidden="true"
+                  className="carousel-control-next-icon"
+                />
+                <span
+                  className="visually-hidden"
+                >
+                  Next
+                </span>
+              </button>
+            </div>
+          </div>
+        </div>
+        <h3
+          className="my-3"
+        >
+          DEALS OF THE DAY 
+          <svg
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            strokeWidth="0"
+            style={
+              Object {
+                "color": undefined,
+              }
+            }
+            viewBox="0 0 24 24"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0z"
+              fill="none"
+            />
+            <path
+              d="M2 22l14-5-9-9zM14.53 12.53l5.59-5.59a1.25 1.25 0 011.77 0l.59.59 1.06-1.06-.59-.59a2.758 2.758 0 00-3.89 0l-5.59 5.59 1.06 1.06zM10.06 6.88l-.59.59 1.06 1.06.59-.59a2.758 2.758 0 000-3.89l-.59-.59-1.06 1.07.59.59c.48.48.48 1.28 0 1.76zM17.06 11.88l-1.59 1.59 1.06 1.06 1.59-1.59a1.25 1.25 0 011.77 0l1.61 1.61 1.06-1.06-1.61-1.61a2.758 2.758 0 00-3.89 0zM15.06 5.88l-3.59 3.59 1.06 1.06 3.59-3.59a2.758 2.758 0 000-3.89l-1.59-1.59-1.06 1.06 1.59 1.59c.48.49.48 1.29 0 1.77z"
+            />
+          </svg>
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>
+`;

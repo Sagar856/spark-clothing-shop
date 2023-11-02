@@ -1,0 +1,326 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "/assets/images/Product1.png",
+      "title": "Roadster",
+      "description": "Men Pure Cotton Casual Shirt",
+      "offerPrice": "674",
+      "actualPrice": "1499",
+      "discountPercent": "55",
+      "detail": "Navy Blue solid casual shirt, has a spread collar, long sleeves, button placket, curved hem, one patch pocket",
+      "size": "Regular Fit",
+      "fit": "The model (height 6') is wearing a size 40",
+      "material": "100% Cotton",
+      "care": "Machine-wash",
+      "rating": "4.3 ",
+      "reviews": "| 27.9k",
+      "category": "mens",
+      "feedback": [
+        {
+          "name": "virat Kohli",
+          "email": "virat@gmail.com",
+          "phone": "7777777777",
+          "comments": "This is really a good product. I liked it",
+          "feedbackRating": 5
+        },
+        {
+          "name": "Sagar",
+          "email": "s@b.com",
+          "phone": "2394782347",
+          "comments": "worth buying, good product. I liked it",
+          "feedbackRating": 3
+        },
+        {
+          "name": "Mayur",
+          "email": "s@bb.com",
+          "phone": "8883782900",
+          "comments": "Received defective product, didn't like it.",
+          "feedbackRating": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "/assets/images/KidsProduct1.png",
+      "title": "Googo Gaaga",
+      "description": "Infant Boys Printed Pure",
+      "offerPrice": "840",
+      "actualPrice": "1400",
+      "discountPercent": "40",
+      "detail": "Top and Joggers Printed T-shirt, has a hooded, long sleeves Printed Joggers",
+      "size": "Regular Fit",
+      "fit": "The model (height 3') is wearing a size 20",
+      "material": "Pure Cotton",
+      "care": "Machine-wash",
+      "rating": "4.2 ",
+      "reviews": "| 9",
+      "category": "kids",
+      "feedback": [
+        {
+          "id": 2,
+          "name": "cscsd",
+          "email": "sassdvd@f.com",
+          "phone": 7777777777,
+          "comments": "Great product",
+          "feedbackRating": "5"
+        },
+        {
+          "name": "Sagar",
+          "email": "s@bb.com",
+          "phone": "876775757677",
+          "comments": "Nice product, I like it",
+          "feedbackRating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "/assets/images/Product2.png",
+      "title": "Mast & harbour",
+      "description": "Regular Checked Casual Shirt",
+      "offerPrice": "699",
+      "actualPrice": "1849",
+      "discountPercent": "30",
+      "detail": "Blue and White checked casual shirt, has a spread collar, long sleeves, button placket, curved hem, and 1 patch pocket",
+      "size": "Regular Fit",
+      "fit": "The model (height 6') is wearing a size 40",
+      "material": "Cotton",
+      "care": "Machine Wash",
+      "rating": "4.2 ",
+      "reviews": "| 253",
+      "category": "mens",
+      "feedback": [
+        {
+          "name": "",
+          "email": "SB@gmail.com",
+          "phone": "9999999999",
+          "comments": "Great",
+          "feedbackRating": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "/assets/images/WomenProduct1.png",
+      "title": "Mitera",
+      "description": "Green & Gold-Toned Silk Blend",
+      "offerPrice": "683",
+      "actualPrice": "3596",
+      "discountPercent": "80",
+      "detail": "The saree comes with an unstitched blouse piece The blouse worn by the model might be for modelling purpose only.",
+      "size": "Length: 5.5 metres plus 0.8 metre blouse piece",
+      "fit": "Width: 1.06 metres (approx.)",
+      "material": "Saree fabric: Silk Blend Blouse fabric: Silk Blend",
+      "care": "Dry clean",
+      "rating": "4.1 ",
+      "reviews": "| 1.8k",
+      "category": "womens",
+      "feedback": []
+    },
+    {
+      "id": 5,
+      "img": "/assets/images/Product4.png",
+      "title": "HIGHLANDER",
+      "description": "Mens Slim Fit Casual Shirt",
+      "offerPrice": " 631",
+      "actualPrice": "1149",
+      "discountPercent": "45",
+      "detail": "White and light blue striped casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem",
+      "size": "Slim fit",
+      "fit": "The model (height 6') is wearing a size 40",
+      "material": "100% Cotton",
+      "care": "Machine-wash",
+      "rating": "4.1 ",
+      "reviews": "| 9.5k",
+      "category": "mens",
+      "feedback": [
+        {
+          "name": "Bhagwat",
+          "email": "Bhagwat@yahoo.com",
+          "phone": "9348879230",
+          "comments": "Really a nice shirt, Fits as expected",
+          "feedbackRating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "/assets/images/WomenProduct2.png",
+      "title": "Sabya Sacchi",
+      "description": "white and gold-toned saree",
+      "offerPrice": "1439",
+      "actualPrice": "4499",
+      "discountPercent": "78",
+      "detail": "Off white and gold-toned saree Floral embellished saree with embellished border Has sequinned detail",
+      "size": "Length: 5.5 metres plus 0.8 metre blouse piece",
+      "fit": "Width: 1.06 metres (approx.)",
+      "material": "Saree fabric: Satin",
+      "care": "Dry clean",
+      "rating": "3.7 ",
+      "reviews": "| 322",
+      "category": "womens",
+      "feedback": []
+    },
+    {
+      "id": 7,
+      "img": "/assets/images/KidsProduct3.png",
+      "title": "ariel",
+      "description": "Infants Cotton Fleece T-Shirt",
+      "offerPrice": "399",
+      "actualPrice": "699",
+      "discountPercent": "50",
+      "detail": "Green and white self design Top ,has a round neck, long sleeves",
+      "size": "Regular Fit",
+      "fit": "The model (height 2') is wearing a size 18",
+      "material": "100% Cotton Fleece",
+      "care": "Hand Wash",
+      "rating": "4.9 ",
+      "reviews": "| 279k",
+      "category": "kids",
+      "feedback": [
+        {
+          "id": 2,
+          "name": "cscsd",
+          "email": "sassdvd@f.com",
+          "phone": 7777777777,
+          "comments": "sads",
+          "feedbackRating": "5"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "img": "/assets/images/WomenProduct3.png",
+      "title": "Anouk",
+      "description": "Yellow Zari Pure Silk Banarasi",
+      "offerPrice": "1049",
+      "actualPrice": "3499",
+      "discountPercent": "70",
+      "detail": "Yellow banarasi saree Solid saree with woven design border Has zari detail",
+      "size": "Length: 5.5 metres plus 0.8 metre blouse piece",
+      "fit": "Width: 1.06 metres (approx.)",
+      "material": "Saree Fabric: Pure Silk",
+      "care": "Dry Clean",
+      "rating": "4.1 ",
+      "reviews": "| 21.9k",
+      "category": "womens",
+      "feedback": []
+    },
+    {
+      "id": 9,
+      "img": "/assets/images/WomenProduct4.png",
+      "title": "KALINI",
+      "description": "Pink & Mustard Yellow Ethnic",
+      "offerPrice": "689",
+      "actualPrice": "2998",
+      "discountPercent": "77",
+      "detail": "Pink and mustard yellow kanjeevaram saree Ethnic motifs woven design saree with woven design border",
+      "size": "Regular Fit",
+      "fit": "The model (height 6') is wearing a size 40",
+      "material": "Saree fabric: Kanjeevaram Silk Blend",
+      "care": "Dry clean",
+      "rating": "4.1 ",
+      "reviews": "| 27k",
+      "category": "womens",
+      "feedback": [
+        {
+          "id": 1,
+          "name": "cscsd",
+          "email": "sas@f.com",
+          "phone": 7777777777,
+          "comments": "Very nice One",
+          "feedbackRating": "5"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "img": "/assets/images/KidsProduct2.png",
+      "title": "Googo Gaaga",
+      "description": "Boys Printed Cotton T-shirt",
+      "offerPrice": "896",
+      "actualPrice": "1400",
+      "discountPercent": "36",
+      "rating": "3.2 ",
+      "detail": "Yellow and green printed Trousers ,has a slip-on closure",
+      "size": "Regular Fit",
+      "fit": "The model (height 3') is wearing a size 20",
+      "material": "Pure Cotton",
+      "care": "Machine-wash",
+      "reviews": "| 27k",
+      "category": "kids",
+      "feedback": []
+    },
+    {
+      "id": 11,
+      "img": "/assets/images/Product3.png",
+      "title": "Roadster",
+      "description": "Mens Printed Casual Shirt",
+      "offerPrice": "644",
+      "actualPrice": "1499",
+      "discountPercent": "57",
+      "detail": "Navy Blue solid casual shirt, has a spread collar, long sleeves, button placket, curved hem, one patch pocket",
+      "size": "Regular Fit",
+      "fit": "The model (height 6') is wearing a size 40",
+      "material": "100% Cotton",
+      "care": "Machine-wash",
+      "rating": "4.1 ",
+      "reviews": "| 23.6k",
+      "category": "mens",
+      "feedback": [
+        {
+          "id": 1,
+          "name": "cscsd",
+          "email": "sas@f.com",
+          "phone": 7777777777,
+          "comments": "sads",
+          "feedbackRating": "5"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "img": "/assets/images/KidsProduct4.png",
+      "title": "Roadster",
+      "description": "Boys Black & White Shirt with",
+      "offerPrice": "1294",
+      "actualPrice": "3499",
+      "discountPercent": "83",
+      "detail": "Black and white solid Shirt ,has a shirt collar, short sleeves Black and white checked Shorts ,has a button closure",
+      "size": "Regular Fit",
+      "fit": "The model (height 3') is wearing a size 20",
+      "material": "Cotton blend",
+      "care": "Hand wash",
+      "rating": "4.5 ",
+      "reviews": "| 27",
+      "category": "kids",
+      "feedback": []
+    }
+  ],
+  "contactData": {
+    "id": 1,
+    "address": "280 Park Avenue Z,Cross cut Complex, Bangalore, India",
+    "phone": [
+      "(91) 987 654 3210",
+      "(91) 987 654 3211"
+    ],
+    "email": "contact@sparkclothing.com"
+  },
+  "getInTouchData": [
+    {
+      "name": "Sagar",
+      "email": "virat@gmail.com",
+      "phone": 868767857557,
+      "message": "skldsldknlsaknlsakvcl",
+      "id": 1
+    },
+    {
+      "name": "jay",
+      "email": "asdaj@sacns.com",
+      "phone": 342342423,
+      "message": "sdfsdkvnsdvskd",
+      "id": 2
+    }
+  ]
+}

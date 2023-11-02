@@ -1,0 +1,54 @@
+/* Styles for feedback form */
+.feedback-form {
+  border: solid 1px #333;
+  margin: 0 auto;
+  width: 510px;
+  padding: 36px;
+  background-color: #d4d4d4;
+  border-radius: 20px;
+}
+
+.field-group {
+  padding: 10px;
+  display: flex;
+}
+
+.feedback-form .field-group label {
+  width: 140px;
+  display: inline-block;
+}
+
+.feedback-form .field-group input textarea {
+  width: 315px;
+  border: 1px solid #7bd2f1;
+  border-radius: 6px;
+  padding: 5px 14px;
+}
+
+.feedback-form .query-label {
+  vertical-align: top;
+  margin-top: 12px;
+}
+
+.query-box label {
+  vertical-align: top;
+}
+
+/* attribute selector */
+.feedback-form button[type="submit"] {
+  margin-left: 140px;
+  margin-top: 0;
+}
+
+.feedback-page-heading {
+  text-align: center;
+  background-color: #c2c5c5;
+  padding: 5px;
+  border-radius: 2px 60px 2px 60px;
+}
+
+.step-rating-input {
+  width: 290px;
+  height: 40px;
+  margin-left: -12px;
+}

@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get in touch has right snapshot with all requirements completed 1`] = `
+<div
+  className="get-in-touch-form"
+>
+  <div
+    className="feedback-form mt-5"
+  >
+    <form
+      autoComplete="off"
+      className="contact-form"
+      onSubmit={[Function]}
+    >
+      <div
+        className="form-data field-group"
+      >
+        <label
+          htmlFor="name"
+        >
+          Name:
+        </label>
+        <input
+          className="form-control"
+          data-testid="nameInput"
+          id="name"
+          name="name"
+          onChange={[Function]}
+          placeholder="Enter name"
+          required={true}
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        className="field-group"
+      >
+        <label
+          htmlFor="email"
+        >
+          E-mail:
+        </label>
+        <input
+          className="form-control"
+          data-testid="emailInput"
+          id="email"
+          name="email"
+          onChange={[Function]}
+          placeholder="Enter mail"
+          required={true}
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        className="field-group"
+      >
+        <label
+          htmlFor="phone"
+        >
+          Phone:
+        </label>
+        <input
+          className="form-control"
+          data-testid="phoneInput"
+          id="phone"
+          name="phone"
+          onChange={[Function]}
+          placeholder="Enter phone number"
+          required={true}
+          type="number"
+          value=""
+        />
+      </div>
+      <div
+        className="field-group"
+      >
+        <label
+          htmlFor="message"
+        >
+          Message:
+        </label>
+        <textarea
+          className="form-control"
+          data-testid="messageInput"
+          id="message"
+          name="message"
+          onChange={[Function]}
+          placeholder="Enter message"
+          required={true}
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <button
+          className="btn-style btn btn-info px-4 py-2 fw-bold"
+          data-testid="submitBtn"
+          disabled={true}
+          type="submit"
+        >
+          Submit
+        </button>
+        <div />
+      </div>
+    </form>
+  </div>
+  <div
+    className="get-in-touch-img-form"
+  >
+    <img
+      alt="getintouch"
+      className="d-block mt-5 get-in-touch-img"
+      data-testid="getInTouchImgForm"
+      src="/assets/images/GetInTouchImgForm.png"
+    />
+  </div>
+</div>
+`;

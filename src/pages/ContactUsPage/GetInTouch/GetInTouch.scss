@@ -1,0 +1,58 @@
+.feedback-form {
+  border: solid 1px #333;
+  margin: auto;
+  padding: 36px;
+  background-color: #969797;
+  border-radius: 20px;
+}
+
+.field-group {
+  padding: 10px;
+  display: flex;
+}
+
+.feedback-form .field-group label {
+  width: 140px;
+  display: inline-block;
+}
+
+.feedback-form .field-group input {
+  width: 315px;
+  border: 1px solid #0043c6;
+  border-radius: 6px;
+  padding: 5px 14px;
+}
+
+.feedback-form {
+  vertical-align: top;
+  margin-top: 12px;
+}
+
+.btn-style {
+  color: black;
+  border-radius: 7px;
+  padding: 4px 10px;
+}
+
+.get-in-touch-form {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.get-in-touch-img-form {
+  width: 500px;
+  margin: auto;
+}
+
+.get-in-touch-img {
+  width: 500px;
+  height: 368px;
+  border-radius: 20px;
+}
+
+.feedback-form .field-group textarea {
+  width: 315px;
+  border: 1px solid #0043c6;
+  border-radius: 6px;
+  padding: 5px 14px;
+}
